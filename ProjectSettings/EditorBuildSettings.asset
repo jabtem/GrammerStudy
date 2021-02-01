@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Study2/scSingleton1.unity
+    guid: 2158ed678bc9a3645a40641af107c260
+  - enabled: 1
+    path: Assets/Study2/scSingleton2.unity
+    guid: 989a43c9a92927f45abfe2148901afa5
   m_configObjects: {}
