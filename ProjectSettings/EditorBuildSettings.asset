@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Study2/scSingleton1.unity
-    guid: 2158ed678bc9a3645a40641af107c260
+    path: Assets/Study4/MonoSingleton1.unity
+    guid: 39ca3336d0a2b4e4c8d5106e040f33bd
   - enabled: 1
-    path: Assets/Study2/scSingleton2.unity
-    guid: 989a43c9a92927f45abfe2148901afa5
+    path: Assets/Study4/MonoSingleton2.unity
+    guid: 06c9158999307004a9b5917e164ee1d7
   m_configObjects: {}
