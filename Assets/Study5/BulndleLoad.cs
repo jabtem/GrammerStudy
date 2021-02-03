@@ -45,7 +45,8 @@ public class BulndleLoad : MonoBehaviour
 
             GameObject Temp = Instantiate(obj) as GameObject;
 
-            Temp.transform.position = new Vector3(-5.0f + (i * 5), 0f, 0f);
+            //원본프리펩 포지션 그대로 받아옴
+            Temp.transform.position = obj.transform.position;
         }
 
         //반드시 언로드해야함 메모리소모나 복수인스턴스방지
