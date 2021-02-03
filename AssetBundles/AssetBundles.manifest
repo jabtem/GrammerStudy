@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3400068048
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube/cu.study1
+      Dependencies: {}
