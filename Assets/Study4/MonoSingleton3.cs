@@ -4,7 +4,7 @@ using UnityEngine;
 // MonoSingleton 클래스
 // 마지막에 where T : MonoSingleton3<T> 이렇게 써도 된다. 잘 생각해보자...
 // 어떤것이 더 좋은 표현일까?
-public class MonoSingleton3<T> : MonoBehaviour where T: MSingleton2
+public class MonoSingleton3<T> : MonoBehaviour where T: MonoSingleton3<T>
 {
     private static T _Instance = null;
 
